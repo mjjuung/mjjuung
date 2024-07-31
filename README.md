@@ -14,8 +14,6 @@
 #### Frontend
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/XPlatform-FF9E0F?style=flat-square&logo=XPlatform&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Nexacro-9999FF?style=flat-square&logo=Nexacro&logoColor=white"/></a>
 
 
 #### Devops
